@@ -16,7 +16,7 @@
 
 - 💬 Ask me about *Digital Forensics, Threat Intel, Red team Engagements, Malware, Ethical Hacking, Networking*
 
-- 📫 How to reach me *varma.dkvv@gmail.com*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
