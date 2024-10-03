@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/d.k.v.v.varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d.k.v.v.varma" height="30" width="40" /></a>
 <a href="https://instagram.com/dkvv_varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dkvv_varma" height="30" width="40" /></a>
-<a href="https://medium.com/@varma.dkvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@varma.dkvv" height="30" width="40" /></a>
+<a href="https://blog.dkvv.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blog.svg" alt="@varma.dkvv" height="30" width="40" /></a>
 </p>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xWAYNE.png" alt="TryHackMe">
