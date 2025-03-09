@@ -25,6 +25,8 @@
 <a href="https://blog.dkvv.live" target="blank"><img align="center" src="https://dl.dropbox.com/scl/fi/3o4sgwq3aas3e30dfrjo2/logo-edited-1.jpg?rlkey=z7x6mjtookr4fqpsutl5elwaq&st=9or9girp&dl=0" alt="@varma.dkvv" height="30" width="40" /></a>
 </p>
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xWAYNE.png)](https://tryhackme.com/p/0xWAYNE)
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xWAYNE.png" alt="Your Image Badge" />
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1454420" style='border:none;'></iframe>
 
